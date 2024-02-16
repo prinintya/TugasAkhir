@@ -1,3 +1,4 @@
+Contoh Eksperimen:
 1. https://www.kaggle.com/code/prinintya/rnn-ft
 2. https://www.kaggle.com/code/prinintya/dnn-ft
 3. https://www.kaggle.com/code/prinintya/qrs-cnn

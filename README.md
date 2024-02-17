@@ -14,3 +14,10 @@ Cara Running Program :
 7. masukkan path dataset PTBXL pada bagian read data (kolom 3)
 8. masukkan path dataset PTBXL+ pada bagian extraksi fitur (kolom 20)
 9. Running
+
+
+
+Cara Running Program Tuning:
+1. Nyalakan internet pada bagian notebook options (kaggle)
+2. Running
+3. masukkan hasil running ke code Model-FT
